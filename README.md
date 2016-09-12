@@ -1,4 +1,4 @@
-"# basic-rootkit" 
+# basic-rootkit
 This rootkit *very basic* and is on github only for *educational* purpose and is no longer usable on modern linux system.
 
 In the first part the rootkit just sets parameter for creating a characters driver. 
